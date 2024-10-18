@@ -16,3 +16,6 @@ clean    | stop and delete containers and images
 status   | check the status of the lab
 help     | show this help message
 ```
+
+### `localhost:8080`:
+![Screenshot from 2024-10-18 05-10-39](https://github.com/user-attachments/assets/4aab2083-1f24-481b-9ba3-0006b4316ed3)
